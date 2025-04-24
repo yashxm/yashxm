@@ -16,9 +16,9 @@
 - **Other:** GitHub and Google Analytics
 
 ## 📂 Projects:
-- **Superstore Sales Analysis (MySQL)** – Sales trends, YOY growth, profit analysis  
-- **Zomato Restaurant Data Analysis (Excel)** – Cleaned, analyzed, and visualized restaurant data  
-- **EDA Projects (Python)** – Exploring datasets, identifying trends and insights
+- [MySQL Projects](https://github.com/yashxm/SQL-Projects)
+- [Excel Projects](https://github.com/yashxm/Excel-Projects)
+- [Power BI Projects](https://github.com/yashxm/Power-BI-Projects)
 
 ## 🔄 Currently working on:
 - Honing my skills in **SQL**, **Python**, and **Power BI**

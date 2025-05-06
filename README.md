@@ -19,6 +19,7 @@
 - [MySQL Projects](https://github.com/yashxm/SQL-Projects)
 - [Excel Projects](https://github.com/yashxm/Excel-Projects)
 - [Power BI Projects](https://github.com/yashxm/Power-BI-Projects)
+- [Python Projects](https://github.com/yashxm/Python-Projects)
 
 ## 🔄 Currently working on:
 - Honing my skills in **SQL**, **Python**, and **Power BI**

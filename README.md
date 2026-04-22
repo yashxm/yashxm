@@ -1,4 +1,4 @@
-# 👋 Hi, I’m yashxm
+# 👋 Hi, I’m yash
 
 🎯 **Aspiring Data Analyst** | 📊 Data Enthusiast | 💡 Lifelong Learner
 

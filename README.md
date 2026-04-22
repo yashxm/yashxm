@@ -1,6 +1,6 @@
 # 👋 Hi, I’m yash
 
-🎯 **Aspiring Data Analyst** | 📊 Data Enthusiast | 💡 Lifelong Learner
+🎯 **Data Analyst** | 📊 Data Enthusiast | 💡 Lifelong Learner
 
 ---
 
